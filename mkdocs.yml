@@ -1,1 +1,46 @@
-site_name: My Docs
+site_name: KendirStudios Developer Documentation
+repo_url: https://github.com/KendirStudio/KendirStudios-DeveloperDocumentation
+
+theme: 
+  logo: images/icon.ico
+  name: material
+  primary: custom
+  accent: red
+  features:
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.annotation
+    - content.code.copy
+  palette:
+  # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: pink
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: pink
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - sane_lists
+
+nav: 
+  - Home: index.md
+  - How to use MKDocs: mkdocs.md
