@@ -3,18 +3,18 @@ site_name: KendirStudios Developer Documentation
 theme:
   name: material
   palette:
+  # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: green
+      accent: deep purple
     # Light Mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-      primary: green
-      accent: deep purple
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
       primary: green
       accent: deep purple
   features:
