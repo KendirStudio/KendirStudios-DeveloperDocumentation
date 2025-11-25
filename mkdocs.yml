@@ -1,46 +1,38 @@
 site_name: KendirStudios Developer Documentation
-repo_url: https://github.com/KendirStudio/KendirStudios-DeveloperDocumentation
 
-theme: 
-  logo: images/icon.ico
+theme:
   name: material
-  primary: custom
-  accent: red
+  palette:
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: green
+      accent: deep purple
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: green
+      accent: deep purple
   features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - content.code.copy
+    - content.code.annotate
+    - content.code.line_numbers
     - search.suggest
     - search.highlight
-    - content.code.annotation
-    - content.code.copy
-  palette:
-  # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      accent: pink
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      accent: pink
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
-
-extra:
-  generator: false
-
-extra_css:
-  - stylesheets/extra.css
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - sane_lists
-
+    
 nav: 
   - Home: index.md
-  - How to use MKDocs: mkdocs.md
+  - Custom Packages: 
+    - How to install: custom-packages/how-to-install.md
+    - Available Packages: custom-packages/available-packages-urls.md
