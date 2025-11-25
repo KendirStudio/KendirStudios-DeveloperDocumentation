@@ -1,3 +1,3 @@
 # KendirStudios-DeveloperDocumentation
 
-https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/
+https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/site/index
