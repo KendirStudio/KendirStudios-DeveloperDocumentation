@@ -48,4 +48,4 @@ Unity will automatically refresh and install the package.
 
 ## Available Packages
 
-You can find all available package URLs in the [Available Packages](../available-packages-urls) section of this documentation.
+You can find all available package URLs in the [Available Packages](../available-packages-urls/) section of this documentation.
