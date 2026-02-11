@@ -32,7 +32,17 @@ theme:
     - search.highlight
     
 nav: 
-  - Home: index.md
+  - MK Docs: index.md
   - Custom Packages: 
     - How to install: custom-packages/how-to-install.md
     - Available Packages: custom-packages/available-packages-urls.md
+  - Resources:
+    - How to Access: resources/resources-home.md
+    - Programming:
+      - Articles: resources/programming/programming-articles.md
+      - Courses: resources/programming/programming-courses.md
+    - Design:
+      - EBooks: resources/design/design-ebooks.md
+    - Assets:
+      - 3D Models: resources/assets/3d-models.md
+      - Music: resources/assets/music.md
