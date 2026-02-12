@@ -1,5 +1,5 @@
 site_name: KendirStudios Documentation Page
-
+site_url: https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/
 extra_css:
   - stylesheets/extra.css
 
