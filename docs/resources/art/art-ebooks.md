@@ -1,5 +1,5 @@
 # E-Books
-- [Color and Light Composition](../../assets/art/ebooks-pdfs/682152816-Artists-Master-Series-Color-and-Light-Compressed-1.pdf)
+- [Color and Light Composition](https://raw.githubusercontent.com/KendirStudio/KendirStudios-DeveloperDocumentation/blob/main/docs/assets/art/ebooks-pdfs/682152816-Artists-Master-Series-Color-and-Light-Compressed-1.pdf)
 
 - [Perspective and Depth](../../assets/art/ebooks-pdfs/perspective-and-depth.pdf)
 
