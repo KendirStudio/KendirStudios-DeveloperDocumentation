@@ -1,0 +1,15 @@
+:root {
+  --md-primary-fg-color: #2D9ACC;
+  --md-accent-fg-color: #EAB11B;
+}
+
+/*Text Selection*/
+::selection {
+  background-color: #EAB11B;  /* your highlight color */
+  color: #ffffff;             /* text color when selected */
+}
+/* For Firefox */
+::-moz-selection {
+  background-color: #EAB11B;
+  color: #ffffff;
+}

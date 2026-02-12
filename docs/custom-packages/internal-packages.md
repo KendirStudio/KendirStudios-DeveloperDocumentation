@@ -1,5 +1,5 @@
-# Available Packages
-Below you'll find the URL address of all the available Custom Packages in the company.
+# Internal Packages
+Below you'll find the URL address of all the available Custom Packages developed by the beautiful KendirStudios programmers.
 
 For more information on how to install them, go to the [How To Install](../how-to-install) section.
 

@@ -1,22 +1,27 @@
-site_name: KendirStudios Developer Documentation
+site_name: KendirStudios Documentation Page
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
+  logo: assets/Logo_white.png
+  favicon: assets/Logo_white.png
   palette:
   # Dark Mode
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: green
-      accent: deep purple
+      primary: var(--md-primary-fg-color)
+      accent: var(--md-accent-fg-color)
     # Light Mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-      primary: green
-      accent: deep purple
+      primary: var(--md-primary-fg-color)
+      accent: var(--md-accent-fg-color)
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -35,16 +40,20 @@ nav:
   - MK Docs: index.md
   - Custom Packages: 
     - How to install: custom-packages/how-to-install.md
-    - Available Packages: custom-packages/available-packages-urls.md
+    - Internal Packages: custom-packages/internal-packages.md
+    - External Packages: custom-packages/external-packages.md
   - Resources:
     - How to Access: resources/resources-home.md
+    - Game Development Assets: resources/assets/game-development-assets.md
     - Programming:
       - Articles: resources/programming/programming-articles.md
       - Courses: resources/programming/programming-courses.md
-    - Design:
-      - Articles: resources/design/design-articles.md
-      - VFX: resources/design/design-vfx.md
-      - EBooks: resources/design/design-ebooks.md
-    - Assets:
-      - 3D Models: resources/assets/3d-models.md
-      - Music: resources/assets/music.md
+      - EBooks: resources/programming/programming-ebooks.md
+      - Youtube: resources/programming/programming-youtube.md
+    - Art:
+      - Articles: resources/art/art-articles.md
+      - EBooks: resources/art/art-ebooks.md
+      - Tools: resources/art/art-tools.md
+      - Youtube: resources/art/art-youtube.md
+    - Game Design:
+      - Youtube: resources/game-design/game-design-youtube.md 

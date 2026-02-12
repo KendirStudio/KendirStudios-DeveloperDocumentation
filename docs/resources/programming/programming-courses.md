@@ -1,6 +1,8 @@
 # Courses
-## [Packt Pub](https://subscription.packtpub.com/owned)
+## [Udemy](https://www.udemy.com/home/my-courses/learning/)
+- [GitHub Copilot Masterclass: The best AI Pair Programmer](https://www.udemy.com/course/github-copilot-masterclass/learn/lecture/43698994?start=0#overview)
 
+## [Packt Pub](https://subscription.packtpub.com/owned)
 - [Effective Game Design Patterns - Unity 6 Compatible](https://subscription.packtpub.com/video/game-development/9781837029174)
 - [Game Math Foundations - Unity 6 Compatible](https://subscription.packtpub.com/video/game-development/9781837026418)
 - [Unity Game Creation Bootcamp - Unity 6 Compatible](https://subscription.packtpub.com/video/game-development/9781837025817)
@@ -18,7 +20,6 @@
 - [Master C# Scripting for Unity Game Development in Just 30 Days](https://subscription.packtpub.com/video/game-development/9781837027453)
 - [Master Unity Game Development in 30 Days - 25+ Game Projects](https://subscription.packtpub.com/video/game-development/9781837027552)
 - [Intro to Unity - Game Development Made Easy](https://subscription.packtpub.com/video/game-development/9781837029952)
-
 
 ## [GameDev](https://gamedev.tv/dashboard)
 - [Complete Unity 2D Developer: Design & Develop Games in Unity 6 using C#](https://gamedev.tv/courses/unity6-complete-2d/view)
@@ -43,3 +44,9 @@
 - [InfinityPBR Game Modules](https://game.courses/courses/infinitypbr-game-modules/)
 - [Minigame (MICRO COURSE)](https://game.courses/courses/minigame-micro-course/)
 - [Mastery Course – GameDev](https://game.courses/courses/mastery-course/)
+
+## [Class Central : FREE](https://www.classcentral.com)
+- [Write your first code using C# (Get started with C#, Part 1)](https://www.classcentral.com/course/microsoft-learn-write-your-first-code-using-c-get-started-with-c-part-1-62183)
+
+## [Learnscs.org : FREE](https://learncs.org)
+- [Learncs.org free interactive C# tutorial](https://learncs.org)
