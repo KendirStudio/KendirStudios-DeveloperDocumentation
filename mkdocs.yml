@@ -45,16 +45,16 @@ nav:
   - Resources:
     - How to Access: resources/resources-home.md
     - Game Development Assets: resources/assets/game-development-assets.md
-    - Programming:
-      - Articles: resources/programming/programming-articles.md
-      - Courses: resources/programming/programming-courses.md
-      - EBooks: resources/programming/programming-ebooks.md
-      - Youtube: resources/programming/programming-youtube.md
     - Art:
       - Articles: resources/art/art-articles.md
       - EBooks: resources/art/art-ebooks.md
       - Tools: resources/art/art-tools.md
       - Youtube: resources/art/art-youtube.md
+    - Programming:
+      - Articles: resources/programming/programming-articles.md
+      - Courses: resources/programming/programming-courses.md
+      - EBooks: resources/programming/programming-ebooks.md
+      - Youtube: resources/programming/programming-youtube.md
     - Game Design:
       - Youtube: resources/game-design/game-design-youtube.md
   - MK Docs: mkdocs.md
