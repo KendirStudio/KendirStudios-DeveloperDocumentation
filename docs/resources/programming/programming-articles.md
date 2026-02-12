@@ -12,3 +12,4 @@
 - [Why you should NOT make everything PUBLIC!](https://www.youtube.com/watch?v=pD27YuJG3L8)
 - [Custom-Made Shadow Renderer Set Up in Unity](https://80.lv/articles/custom-made-shadow-renderer-set-up-in-unity/)
 - [iHeartGameDev Announced New Tutorial on Unity-Made Animation](https://80.lv/articles/check-out-this-series-of-tutorials-on-procedural-animation-in-unity/)
+- [How to architect code as your project scales](https://unity.com/how-to/how-architect-code-your-project-scales)
