@@ -37,7 +37,7 @@ theme:
     - search.highlight
     
 nav: 
-  - MK Docs: index.md
+  - Home: index.md
   - Custom Packages: 
     - How to install: custom-packages/how-to-install.md
     - Internal Packages: custom-packages/internal-packages.md
@@ -56,4 +56,5 @@ nav:
       - Tools: resources/art/art-tools.md
       - Youtube: resources/art/art-youtube.md
     - Game Design:
-      - Youtube: resources/game-design/game-design-youtube.md 
+      - Youtube: resources/game-design/game-design-youtube.md
+  - MK Docs: mkdocs.md

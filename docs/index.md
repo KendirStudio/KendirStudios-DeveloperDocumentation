@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Kendir Studios - Documentation Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome! This site collects resources, guides, and assets we use and share for game development, art, and programming.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## What you'll find
+- Curated art and asset collections (3D models, music, textures) with download/read instructions.
+- Programming tutorials, sample code, and recommended ebooks for engine workflows.
+- How-tos for installing and using custom/internal packages maintained by the studio.
+- Playlists and video resources for art, design, and programming learning paths.
