@@ -1,5 +1,4 @@
 # Articles
-
 - [User Journeys vs. User Flows](https://www.nngroup.com/articles/user-journeys-vs-user-flows)
 - [What is UX journey mapping?](https://www.qualtrics.com/en-gb/articles/customer-experience/ux-journey-map/)
 - [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/)
