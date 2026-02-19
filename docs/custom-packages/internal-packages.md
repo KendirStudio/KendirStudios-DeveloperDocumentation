@@ -69,6 +69,13 @@ https://oauth2:glpat-izVISEw4m8HDL9RbT2l16G86MQp1OmJqaG00Cw.01.121ygcqqv@gitlab.
 https://oauth2:glpat-izVISEw4m8HDL9RbT2l16G86MQp1OmJqaG00Cw.01.121ygcqqv@gitlab.com/Kendir_Custom_Packages/custom-packages.git?path=/Packages/com.kendirstudios.playfab-cloudsave
 ```
 
+### Remote Streaming Assets
+```text
+
+https://oauth2:glpat-2GAv3L7LH66MDygX1x1UVG86MQp1OmJqaG00Cw.01.120ohawvj@gitlab.com/Kendir_Custom_Packages/custom-packages.git?path=/Packages/com.kendirstudios.remote-streaming-assets
+```
+
+
 ### Serialized Collections
 ```text
 
