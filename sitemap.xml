@@ -2,82 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/mkdocs/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/custom-packages/external-packages/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/custom-packages/how-to-install/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/custom-packages/internal-packages/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/resources-home/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/art/art-articles/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/art/art-ebooks/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/art/art-tools/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/art/art-youtube/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/assets/game-development-assets/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/game-design/game-design-youtube/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/programming/programming-articles/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/programming/programming-courses/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/programming/programming-ebooks/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/resources/programming/programming-youtube/</loc>
-         <lastmod>2026-02-13</lastmod>
+         <lastmod>2026-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kendirstudio.github.io/KendirStudios-DeveloperDocumentation/training/programming/code-structure/</loc>
+         <lastmod>2026-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
