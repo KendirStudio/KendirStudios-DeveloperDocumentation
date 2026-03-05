@@ -16,3 +16,4 @@
 - [Why use Addressables? - Unity Learn](https://learn.unity.com/tutorial/why-use-addressables?courseId=64255c01edbc2a268fb0b800)
 - [Unity's New Camera System! And Mario Galaxy Character Controller](https://www.youtube.com/watch?v=OL0bLrb8DV4)
 - [Making live updates across platforms with Addressables | Unite 2024](https://www.youtube.com/watch?v=wvcdHrrQIu4)
+- [Unity Code Optimization - Do you know them all?(VERY GOOD)](https://www.youtube.com/watch?v=Xd4UhJufTx4)
