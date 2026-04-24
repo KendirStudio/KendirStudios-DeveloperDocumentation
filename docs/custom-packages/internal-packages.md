@@ -88,6 +88,12 @@ https://oauth2:glpat-izVISEw4m8HDL9RbT2l16G86MQp1OmJqaG00Cw.01.121ygcqqv@gitlab.
 https://oauth2:glpat-izVISEw4m8HDL9RbT2l16G86MQp1OmJqaG00Cw.01.121ygcqqv@gitlab.com/Kendir_Custom_Packages/custom-packages.git?path=/Packages/com.kendirstudios.sessions
 ```
 
+### Sound System
+```text
+
+https://oauth2:glpat-izVISEw4m8HDL9RbT2l16G86MQp1OmJqaG00Cw.01.121ygcqqv@gitlab.com/Kendir_Custom_Packages/custom-packages.git?path=/Packages/com.kendirstudios.sound-system
+```
+
 ### Standalone File Browser
 ```text
 
